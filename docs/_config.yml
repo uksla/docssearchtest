@@ -1,0 +1,81 @@
+doks:
+    baseurl:
+    color_theme: blue
+    micro_nav:
+    - title: About Lunacy
+      url: '/about'
+    - title: Interface
+      url: '/interface'
+    - title: Tools
+      url: '/tools'
+    - title: 'Objects'
+      url: '/objects'
+    - title: 'Editing shapes'
+      url: '/editing'
+    - title: 'Text'
+      url: '/text'
+    - title: 'Styling'
+      url: '/styling'
+    - title: 'Components'
+      url: '/components'
+      icon: 'refresh'
+    - title: 'Layer and text styles'
+      url: '/layerstyles/'
+    - title: 'Libraries'
+      url: '/libraries'
+    - title: 'Images'
+      url: '/images'
+    - title: 'Export'
+      url: '/export'
+    - title: 'Sketch Cloud'
+      url: '/cloud'
+    - title: 'Prototyping'
+      url: '/prototyping'
+    - title: 'Tips and Tricks'
+      url: '/tips'
+    - title: 'Shortcuts'
+      url: '/shortcuts'
+    - title: 'Plugins'
+      url: '/plugins'
+    - title: 'Localization'
+      url: '/localization'
+    - title: 'FAQ and Сontacts'
+      url: '/support'
+    - title: 'Release History'
+      url: '/release-notes'
+      
+
+    header:
+        logo:
+            text:
+            image: true
+        nav:
+            - item_name: Documentation
+              item_url: /
+            - item_name: Request Features
+              item_url: https://lunatics.icons8.com/
+              external_url: true
+            - item_name: Release Notes
+              item_url: /release-notes/
+            - item_name: Forum
+              item_url: https://community.icons8.com/c/lunacy/
+              external_url: true
+            
+
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
+
+# theme: jekyll-theme-cayman
