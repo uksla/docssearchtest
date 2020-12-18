@@ -1,5 +1,5 @@
 doks:
-    baseurl: docssearchtest
+    baseurl: /docssearchtest
     color_theme: blue
     micro_nav:
     - title: About Lunacy
