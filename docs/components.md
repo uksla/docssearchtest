@@ -29,7 +29,7 @@ Moreover, you can also change the text on one or even all instances. That will b
 
 The demo below demonstrates the effect and efficiency of using components in designs.
 
-<video autoplay="" muted="" loop="" playsinline="" width="100%" poster="/public/symbols-demo65ph.png" height="auto"><source src="/docssearchtest/public/symbols-demo65.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="100%" poster="/docssearchtest/public/symbols-demo65ph.png" height="auto"><source src="/docssearchtest/public/symbols-demo65.mp4" type="video/mp4"></video>
 
 
 ## [Creating components](#creating-components)
