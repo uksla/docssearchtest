@@ -1,5 +1,5 @@
 doks:
-    baseurl:"docssearchtest"
+    baseurl: "docssearchtest"
     color_theme: blue
     micro_nav:
     - title: About Lunacy
@@ -79,4 +79,3 @@ exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
 
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-doks-theme
